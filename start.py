@@ -5,7 +5,7 @@ nom = raw_input("Votre nom? ")
 prenom = raw_input("Votre prenom? ")
 try:
 	age = int(raw_input("Votre age? "))
-exept :
+except :
 	print("Erreur, par defaut: 19")
 	age = 19
 
