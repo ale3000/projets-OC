@@ -11,4 +11,4 @@ except :
 
 pers = Programme(nom,prenom,age)
 
-pers.Majeur
+pers.Majeur()
