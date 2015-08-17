@@ -12,3 +12,5 @@ except :
 pers = Programme(nom,prenom,age)
 
 pers.Majeur()
+
+print("termine")
